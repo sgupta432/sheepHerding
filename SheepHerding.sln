@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SheepHerding", "Assembly-CSharp.csproj", "{D9A28D1D-D8F5-F05E-CDB2-D37AF9485C1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SheepHerding", "Assembly-CSharp-Editor.csproj", "{70C651EB-B714-A91B-430F-4B02AC76FF62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9A28D1D-D8F5-F05E-CDB2-D37AF9485C1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9A28D1D-D8F5-F05E-CDB2-D37AF9485C1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9A28D1D-D8F5-F05E-CDB2-D37AF9485C1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9A28D1D-D8F5-F05E-CDB2-D37AF9485C1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70C651EB-B714-A91B-430F-4B02AC76FF62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C651EB-B714-A91B-430F-4B02AC76FF62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C651EB-B714-A91B-430F-4B02AC76FF62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C651EB-B714-A91B-430F-4B02AC76FF62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{196D7C34-D869-E89F-9AFE-CD8C989870A7}</ProjectGuid>
+    <ProjectGuid>{70C651EB-B714-A91B-430F-4B02AC76FF62}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -103,7 +103,6 @@
      <None Include="Assets\Tanks\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderYUV.shader" />
      <None Include="Assets\Tanks\Fonts\Bowlby_One\OFL.txt" />
      <None Include="Assets\Tanks\Standard Assets\Effects\ImageEffects\Shaders\CreaseApply.shader" />
-     <None Include="Assets\VertexColorFarmAnimals\Shaders\VertexColorUnlit.shader" />
      <None Include="Assets\Tanks\Standard Assets\Effects\ImageEffects\Shaders\ChromaticAberrationShader.shader" />
      <None Include="Assets\Tanks\Standard Assets\Effects\ImageEffects\Shaders\GlobalFog.shader" />
      <None Include="Assets\Tanks\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Luminance.shader" />
@@ -205,16 +204,16 @@
  <HintPath>/Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="RAIN">
- <HintPath>/Users/sanjanagupta/Downloads/TanksPluggableAI/Assets/RAIN/RAIN.dll</HintPath>
+ <HintPath>/Users/sanjanagupta/Documents/_Gatech/Semester3/VideoGameDesign/SheepHerding/Assets/RAIN/RAIN.dll</HintPath>
  </Reference>
  <Reference Include="RAINMetaform">
- <HintPath>/Users/sanjanagupta/Downloads/TanksPluggableAI/Assets/RAIN/RAINMetaform.dll</HintPath>
+ <HintPath>/Users/sanjanagupta/Documents/_Gatech/Semester3/VideoGameDesign/SheepHerding/Assets/RAIN/RAINMetaform.dll</HintPath>
  </Reference>
  <Reference Include="RAINEditor">
- <HintPath>/Users/sanjanagupta/Downloads/TanksPluggableAI/Assets/RAIN/Editor/RAINEditor.dll</HintPath>
+ <HintPath>/Users/sanjanagupta/Documents/_Gatech/Semester3/VideoGameDesign/SheepHerding/Assets/RAIN/Editor/RAINEditor.dll</HintPath>
  </Reference>
  <Reference Include="RAINMetaformEditor">
- <HintPath>/Users/sanjanagupta/Downloads/TanksPluggableAI/Assets/RAIN/Editor/RAINMetaformEditor.dll</HintPath>
+ <HintPath>/Users/sanjanagupta/Documents/_Gatech/Semester3/VideoGameDesign/SheepHerding/Assets/RAIN/Editor/RAINMetaformEditor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>/Users/sanjanagupta/Library/Unity/cache/packages/packages.unity.com/com.unity.ads@1.0.7/Editor/UnityEditor.Advertisements.dll</HintPath>
@@ -234,7 +233,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{A3DBCEF8-D9D9-FBA1-908C-F7DDAA166B3B}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+      <Project>{D9A28D1D-D8F5-F05E-CDB2-D37AF9485C1C}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

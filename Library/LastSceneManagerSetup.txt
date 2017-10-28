@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/SheepHerding.unity
+- path: Assets/VertexColorFarmAnimals/Scenes/demo.unity
   isLoaded: 1
   isActive: 1

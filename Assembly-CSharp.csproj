@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{A3DBCEF8-D9D9-FBA1-908C-F7DDAA166B3B}</ProjectGuid>
+    <ProjectGuid>{D9A28D1D-D8F5-F05E-CDB2-D37AF9485C1C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -65,6 +65,7 @@
      <Compile Include="Assets\PluggableAI\Scripts\Transition.cs" />
      <Compile Include="Assets\Scripts\Herd.cs" />
      <Compile Include="Assets\Scripts\Sheep.cs" />
+     <Compile Include="Assets\Scripts\SheepLoco.cs" />
      <Compile Include="Assets\Tanks\_Completed-Assets\Scripts\Camera\CameraControl.cs" />
      <Compile Include="Assets\Tanks\_Completed-Assets\Scripts\Managers\GameManager.cs" />
      <Compile Include="Assets\Tanks\_Completed-Assets\Scripts\Managers\TankManager.cs" />
@@ -146,7 +147,6 @@
      <None Include="Assets\Tanks\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderYUV.shader" />
      <None Include="Assets\Tanks\Fonts\Bowlby_One\OFL.txt" />
      <None Include="Assets\Tanks\Standard Assets\Effects\ImageEffects\Shaders\CreaseApply.shader" />
-     <None Include="Assets\VertexColorFarmAnimals\Shaders\VertexColorUnlit.shader" />
      <None Include="Assets\Tanks\Standard Assets\Effects\ImageEffects\Shaders\ChromaticAberrationShader.shader" />
      <None Include="Assets\Tanks\Standard Assets\Effects\ImageEffects\Shaders\GlobalFog.shader" />
      <None Include="Assets\Tanks\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Luminance.shader" />
@@ -212,10 +212,10 @@
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="RAIN">
- <HintPath>/Users/sanjanagupta/Downloads/TanksPluggableAI/Assets/RAIN/RAIN.dll</HintPath>
+ <HintPath>/Users/sanjanagupta/Documents/_Gatech/Semester3/VideoGameDesign/SheepHerding/Assets/RAIN/RAIN.dll</HintPath>
  </Reference>
  <Reference Include="RAINMetaform">
- <HintPath>/Users/sanjanagupta/Downloads/TanksPluggableAI/Assets/RAIN/RAINMetaform.dll</HintPath>
+ <HintPath>/Users/sanjanagupta/Documents/_Gatech/Semester3/VideoGameDesign/SheepHerding/Assets/RAIN/RAINMetaform.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Users/sanjanagupta/Library/Unity/cache/packages/packages.unity.com/com.unity.analytics@1.0.1/UnityEngine.Analytics.dll</HintPath>
